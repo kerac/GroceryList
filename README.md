@@ -1,8 +1,7 @@
-# grocery
+# Grocery List
 
-A new Flutter project.
+This is a Flutter project.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
